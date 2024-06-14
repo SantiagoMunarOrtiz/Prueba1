@@ -1,0 +1,14 @@
+/Users/santiagomunarortiz/Desktop/1 Punto/bin/Debug/net8.0/1 Punto
+/Users/santiagomunarortiz/Desktop/1 Punto/bin/Debug/net8.0/1 Punto.deps.json
+/Users/santiagomunarortiz/Desktop/1 Punto/bin/Debug/net8.0/1 Punto.runtimeconfig.json
+/Users/santiagomunarortiz/Desktop/1 Punto/bin/Debug/net8.0/1 Punto.dll
+/Users/santiagomunarortiz/Desktop/1 Punto/bin/Debug/net8.0/1 Punto.pdb
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/1 Punto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/1 Punto.AssemblyInfoInputs.cache
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/1 Punto.AssemblyInfo.cs
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/1 Punto.csproj.CoreCompileInputs.cache
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/1 Punto.dll
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/refint/1 Punto.dll
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/1 Punto.pdb
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/1 Punto.genruntimeconfig.cache
+/Users/santiagomunarortiz/Desktop/1 Punto/obj/Debug/net8.0/ref/1 Punto.dll
