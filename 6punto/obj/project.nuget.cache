@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDWcS8dxXYk=",
+  "success": true,
+  "projectFilePath": "/Users/santiagomunarortiz/Desktop/6punto/Prueba.csproj",
+  "expectedPackageFiles": [
+    "/Users/santiagomunarortiz/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

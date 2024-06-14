@@ -1,0 +1,6 @@
+1 paso Terminal
+dotnet add package Newtonsoft.Json
+2 paso Terminal
+dotnet build
+3 paso ejecutar
+dotnet run
