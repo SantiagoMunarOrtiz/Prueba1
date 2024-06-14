@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON Menu Example</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            
+            const jsonData = {
+                "menu": {
+                    "id": "file",
+                    "value": "File",
+                    "popup": {
+                        "menuitem": [
+                            {"value": "New", "onclick": "CreateNewDoc()"},
+                            {"value": "Open", "onclick": "OpenDoc()"},
+                            {"value": "Close", "onclick": "CloseDoc()"}
+                        ]
+                    }
+                }
+            };
+
+            // Recorrer los elementos del array 'menuitem' e imprimir sus valores
+            jsonData.menu.popup.menuitem.forEach(item => {
+                console.log(`Value: ${item.value}, Onclick: ${item.onclick}`);
+            });
+
+            // Opcional: Mostrar los resultados en el HTML
+            const menuContainer = document.getElementById('menu-container');
+            jsonData.menu.popup.menuitem.forEach(item => {
+                const menuItem = document.createElement('div');
+                menuItem.textContent = `Value: ${item.value}, Onclick: ${item.onclick}`;
+                menuContainer.appendChild(menuItem);
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>JSON Menu Example</h1>
+    <div id="menu-container"></div>
+</body>
+</html>
