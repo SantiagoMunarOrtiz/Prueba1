@@ -1,0 +1,5 @@
+1 paso
+dotnet add package System.ServiceModel.Primitives
+2.
+
+dotnet add package System.ServiceModel.Http

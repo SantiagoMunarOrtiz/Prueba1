@@ -1,0 +1,5 @@
+/Users/santiagomunarortiz/Desktop/Punto5/obj/Debug/net8.0/Punto5.csproj.AssemblyReference.cache
+/Users/santiagomunarortiz/Desktop/Punto5/obj/Debug/net8.0/Punto5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagomunarortiz/Desktop/Punto5/obj/Debug/net8.0/Punto5.AssemblyInfoInputs.cache
+/Users/santiagomunarortiz/Desktop/Punto5/obj/Debug/net8.0/Punto5.AssemblyInfo.cs
+/Users/santiagomunarortiz/Desktop/Punto5/obj/Debug/net8.0/Punto5.csproj.CoreCompileInputs.cache
